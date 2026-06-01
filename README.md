@@ -167,6 +167,6 @@ Para aumentar disponibilidade e tolerância a falhas, a arquitetura utiliza:
 
 Os principais registros de decisão arquitetural podem ser encontrados em:
 
-- [ADR 003 - Estratégia de implantação em Nuvem e Escalabilidade](./docs/adrs/ADR_0001.md)
-- [ADR 004 - Padrões de Resiliência (API Gateway, Circuit Breaker e Bulkhead)](./docs/adrs/ADR_0002.md)
-- [ADR 005 - Modelo de Comunicação Híbrido (Síncrono e Assíncrono)](./docs/adrs/ADR_0003.md)
+- [ADR 003 - Estratégia de implantação em Nuvem e Escalabilidade](./docs/adrs/ADR_003.md)
+- [ADR 004 - Padrões de Resiliência (API Gateway, Circuit Breaker e Bulkhead)](./docs/adrs/ADR_004.md)
+- [ADR 005 - Modelo de Comunicação Híbrido (Síncrono e Assíncrono)](./docs/adrs/ADR_005.md)
